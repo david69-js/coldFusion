@@ -1,4 +1,5 @@
 <cfscript>
+//Aca te da a conocer el nombre del servidor
     serverName = cgi.server_name;
     portName = cgi.server_port_secure;
 </cfscript>
